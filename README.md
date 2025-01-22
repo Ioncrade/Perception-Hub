@@ -1,4 +1,4 @@
-# Business Sentiment Analysis Dashboard 📊
+# Business Sentiment Analysis 📊
 
 A Streamlit-based web application that performs real-time sentiment analysis on news articles about companies using FinBERT. The application fetches recent news articles and provides visual insights into the sentiment distribution and trends.
 
@@ -80,6 +80,9 @@ business-sentiment-analysis/
 ## API Keys 🔑
 
 You'll need to obtain an API key from [NewsAPI](https://newsapi.org/) to fetch news articles. Once you have the key, add it to your `.env` file or Streamlit secrets.
+
+
+## Analysis Example
 
 ## Contributing 🤝
 
