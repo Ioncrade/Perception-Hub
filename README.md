@@ -83,11 +83,9 @@ You'll need to obtain an API key from [NewsAPI](https://newsapi.org/) to fetch n
 
 
 ## Analysis Example
-###Interface
-![Screenshot 2025-01-22 183937](https://github.com/user-attachments/assets/d998557a-da07-4950-b6e8-b0491d1090d7)
-###Analysis
-![Screenshot 2025-01-22 184058](https://github.com/user-attachments/assets/fdedb9ef-9f8a-428b-a8c1-e71c92fefab6)
 
+![Screenshot 2025-01-22 183937](https://github.com/user-attachments/assets/d998557a-da07-4950-b6e8-b0491d1090d7)
+![Screenshot 2025-01-22 184058](https://github.com/user-attachments/assets/fdedb9ef-9f8a-428b-a8c1-e71c92fefab6)
 ![Screenshot 2025-01-22 184111](https://github.com/user-attachments/assets/845edea0-047b-4932-b5d4-6bf9de342eff)
 
 
